@@ -1,0 +1,38 @@
+Este é um certificado de revogação para a chave OpenPGP:
+
+pub   rsa4096 2025-02-24 [S]
+      EC0A817198ED4B8BDF5091B0E703A24D7266BD35
+uid          Pacman Keyring Master Key <pacman@localhost>
+
+Um certificado de revogação é uma espécie de "kill switch" para
+declarar publicamente que uma chave não deverá ser mais usada.  Não
+é possível retirar tal certificado de revogação depois de publicado.
+
+Use-o para revogar esta chave caso seja comprometida ou em caso de
+perda da chave secreta.  No entanto, se a chave secreta ainda for
+acessível, é melhor gerar um novo certificado de revogação e dar um
+motivo para a revogação.  Para obter detalhes, consulte a descrição do
+comando gpg "--generate-revocation" no manual do GnuPG.
+
+Para evitar o uso acidental deste ficheiro, 'dois pontos' foram
+inseridos antes dos 5 traços abaixo.  Remova estes 'dois pontos' com
+um editor de texto antes de importar e publicar este certificado de
+revogação.
+
+:-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: This is a revocation certificate
+
+iQI2BCABCAAgFiEE7AqBcZjtS4vfUJGw5wOiTXJmvTUFAme8n3cCHQAACgkQ5wOi
+TXJmvTUu4w//b6KcABJOL1xlveVKxdqAJVJ0hGY1M4TAngXI0iYpHdJGmd5xBd8w
+XyFnkES+Se0W+WuNfyze6l7MwZwsJv9Qm6+SyzcbP+FHOPu091If616D3BzQXcE9
+/o5Tyk1j1PNcL3x2w0Wvsiq5vjnCEYbPWWen4vN+71v1kQKCUFcgHq92T3k3gass
+5ab1BTCF4Km/phPJl9fAlTQt48QkNvGowgVOJgYeDj9mpbgpb5KKjYHEMZvVKoRt
+OqPdAnqTW8kO/9VTK4ZUaeTv7Ek5WjgpEv50b1kmiDzBVWzGAxqrutN39eTK+ZBt
+kalGxLGpiZlp6wNhtgMwMEyBYchROUqs+RLyOgqifB+8qVe68CwkghcUzF6c2FSS
+BKo2mbpqajRUMMvhrxxzsku6/SRtQys9yXA2l+zSZ4g4qUmS7FzINZlnWD28J4XB
+JCDHrLonYf6FsTyVybSi1fgNafBvVdFEeLn7Fhlb98tCZIRYWTfiW/0iMriT7+Kw
+kHlEhb6LrSoWuUe/+6ZTMGKpk1TEecWVm1J9IOdp+KMFUoDgZ9LLnO7Xxokn5KbF
+MvALxMPwQXMRle1etsTTkSLcEvBg5M6rf+5We5umRi1ywXUfIWcXOa/NyPHyTsOG
+Puh4/vXkrbJ3jSGCqB3ert5emZJBmPEgLaiQJQp2Q9wsI+Tc0rewdI8=
+=uOlr
+-----END PGP PUBLIC KEY BLOCK-----
