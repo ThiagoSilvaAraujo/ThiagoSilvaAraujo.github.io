@@ -24,13 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-HEAD
-
-title: Thiago Silva de Araújo
-email: thiago_silva_araujo@hotmail.com
-author: Thiago Silva Araujo
->>>>>>> dc6f971ed677e6c74daea8f08753662b5afcfa1a
->>>>>>> d6241c84d1e4bba9d560cad73c4758751dcbf9e8
+title: "Thiago Silva de Araújo"
+email: "thiago_silva_araujo@hotmail.com"
+author: "Thiago Silva Araujo"
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:

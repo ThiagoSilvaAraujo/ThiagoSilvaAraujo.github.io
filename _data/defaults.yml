@@ -1,9 +1,4 @@
 home:
-<<<<<<< HEAD:
-  heading: "Your awesome heading"
-  subheading: "Your awesome subheading"
-=======
   heading: "Meu Blog de Tecnologia"
   subheading: "Programação - Engenharia - Ciências Econômicas"
->>>>>>> dc6f971ed677e6c74daea8f08753662b5afcfa1a
   banner: "Your image url"
