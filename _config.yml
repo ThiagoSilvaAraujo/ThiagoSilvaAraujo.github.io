@@ -24,15 +24,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-<<<<<<< HEAD
-title: Your awesome title
-email: your-email@domain.com
-author: GitHub User
-=======
-title: Thiago Silva de Araújo
-email: thiago_silva_araujo@hotmail.com
-author: Thiago Silva Araujo
->>>>>>> dc6f971ed677e6c74daea8f08753662b5afcfa1a
+ 
+title: "Thiago Silva de Araujo"
+email: "thiago_silva_araujo@hotmail.com"
+author: "Thiago Silva Araujo"
+
+
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:

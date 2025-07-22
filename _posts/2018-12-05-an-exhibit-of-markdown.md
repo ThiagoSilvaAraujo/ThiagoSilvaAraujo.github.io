@@ -1,9 +1,8 @@
 ---
 layout: post
 HEAD
-title: Política de
- Substituição de Importações no Brasil vs. Política de Taxas de Donald Trump nos EUA 
-subtitle: Politica externa de Trump
+title: "Política de Substituição de Importações no Brasil vs. Política de Taxas de Donald Trump nos EUA" 
+subtitle: "Politica externa de Trump"
 categories: Economia Política
 tags: [Economia, Politica]
 ---
